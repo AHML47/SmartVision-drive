@@ -53,7 +53,7 @@ def load_and_preprocess_dataset(dataset_path):
 
 
 
-dataset_path = "/home/khaoula/Bureau/dataset/Fog"
+dataset_path = "dataset_link"
 X_train, X_val, X_test, y_train, y_val, y_test = load_and_preprocess_dataset(dataset_path)
 
 def create_faster_rcnn_model(num_classes):
@@ -80,7 +80,7 @@ checkpoint_callback = ModelCheckpoint('faster_rcnn_model.h5', save_best_only=Tru
 faster_rcnn_model.fit(X_train, {'class_output': y_train, 'bbox_output': np.zeros_like(y_train)},
                        validation_data=(X_val, {'class_output': y_val, 'bbox_output': np.zeros_like(y_val)}),
                        epochs=10, callbacks=[checkpoint_callback])
-new_image_path = "/home/khaoula/Bureau/dataset_test/Fog/28971289.png"
+new_image_path = "dataset_test"
 new_image = cv2.imread(new_image_path)
 new_image = cv2.resize(new_image, (224, 224)) 
 
