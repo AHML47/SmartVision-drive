@@ -93,6 +93,7 @@ Special thanks to the following individuals who have contributed to the developm
 - [Yassine Ben Younes]
 - [Meriam Kobbi]
 - [Zied Chok]
+- [Ghofrane Hamrouny]
 
 We also extend our gratitude to IEEE ISIMa RAS SBc for their valuable contributions. Additionally, we acknowledge the use of various technologies, including AI, machine learning, computer vision, vehicle-to-vehicle communication, and IoT.
 ## Contact
