@@ -73,11 +73,11 @@ This Python script integrates Firebase Realtime Database, web browsing, and Pyga
 
 ***display a live stream from a Raspberry Pi on the windshield with the use of a projector with specific dimension
 
-##Documentation and Resources :
+## Documentation and Resources :
 -https://universe.roboflow.com/weatherdetection/foggy-weather (dataset)
 -https://www.kaggle.com/datasets/dhruvagg/foggy-road-images
 
-#schematics:
+## schematics:
 in this schematic we used the raspberry pi as main object because the rest components are connecting to it and we use camera and wire it to the camer port in raspberry and in the place of projector we used a screen connected to raspberry by HDMI and tow power resources one for the raspberry and the other for the screen and a button in place of starting order
 
 
