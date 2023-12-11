@@ -1,9 +1,9 @@
-# SmartVision-drive
+# SmartVision-Drive
 tsyp 11 ras challenge 
 
 
 ## Project Description
-Smart Vision  is an innovative Heads-Up Display (HUD) designed to enhance road safety and optimize traffic flow, particularly in extreme weather conditions. This system leverages cutting-edge technologies, including AI, machine learning, computer vision, vehicle-to-vehicle communication, and IoT to provide real-time visualization of the road and deliver instructions to drivers.
+SmartVision Drive is an innovative Heads-Up Display (HUD) designed to enhance road safety and optimize traffic flow, particularly in extreme weather conditions. This system leverages cutting-edge technologies, including AI, machine learning, computer vision, vehicle-to-vehicle communication, and IoT to provide real-time visualization of the road and deliver instructions to drivers.
 
 ## Installation
 The installation process  involves the following steps:
@@ -14,11 +14,11 @@ The installation process  involves the following steps:
 Once these steps are completed, the application  is ready to enhance your driving experience.
 
 ## Usage
-Smart Vision operates seamlessly once installed. Users can access the system through the app, and the HUD provides a clear visualization of the road, incorporating AI-driven insights for improved safety and traffic optimization.
+SmartVision Drive operates seamlessly once installed. Users can access the system through the app, and the HUD provides a clear visualization of the road, incorporating AI-driven insights for improved safety and traffic optimization.
 
 ## Configuration
 No specific configuration is required as the system is designed to work efficiently under extreme weather conditions.
-# code 
+## code 
 python/AI:
 * a Python script that implements a Faster R-CNN (Region-based Convolutional Neural Network) model using TensorFlow and Keras. The model is designed for an object detection task on a custom dataset related to foggy weather conditions. Here's a summary of the key components and functionalities:
 
@@ -74,7 +74,8 @@ This Python script integrates Firebase Realtime Database, web browsing, and Pyga
 ***display a live stream from a Raspberry Pi on the windshield with the use of a projector with specific dimension
 
 ## Documentation and Resources :
--https://universe.roboflow.com/weatherdetection/foggy-weather (dataset)
+(dataset)
+-https://universe.roboflow.com/weatherdetection/foggy-weather 
 -https://www.kaggle.com/datasets/dhruvagg/foggy-road-images
 
 ## schematics:
@@ -102,5 +103,5 @@ meriem.kobbi@iee.org
 
 ---
 
-**Note:** Smart Vision NavTech is a startup idea, and further details will be provided in the PPT presentation
+**Note:** SmartVision Drive is a startup idea, and further details will be provided in the PPT presentation
 
